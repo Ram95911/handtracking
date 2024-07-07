@@ -21,5 +21,6 @@ This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 
-##This project uses the MediaPipe library developed by Google.
+## This project uses the MediaPipe library developed by Google.
+
 pip install -r requirements.txt
