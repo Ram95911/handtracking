@@ -25,3 +25,7 @@ This project is open-source and available under the MIT License.
 
 ```bash
 pip install -r requirements.txt
+
+``` bash
+
+HandtrackingMin.py
